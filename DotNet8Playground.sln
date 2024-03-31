@@ -1,0 +1,28 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DotNet8Playground.UnitTests", "DotNet8Playground.UnitTests\DotNet8Playground.UnitTests.csproj", "{7544D324-FFD3-443C-9695-E0FEFA7E86A7}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DotNet8Playground.ReverseString", "DotNet8Playground.ReverseString\DotNet8Playground.ReverseString.csproj", "{0D11E7E1-3615-4BBB-92AF-0ED440124A9B}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DotNet8Playground.Services", "DotNet8Playground.Services\DotNet8Playground.Services.csproj", "{55F219C2-E0DD-467A-816C-6781272828F1}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{7544D324-FFD3-443C-9695-E0FEFA7E86A7}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{7544D324-FFD3-443C-9695-E0FEFA7E86A7}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{7544D324-FFD3-443C-9695-E0FEFA7E86A7}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{7544D324-FFD3-443C-9695-E0FEFA7E86A7}.Release|Any CPU.Build.0 = Release|Any CPU
+		{0D11E7E1-3615-4BBB-92AF-0ED440124A9B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{0D11E7E1-3615-4BBB-92AF-0ED440124A9B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{0D11E7E1-3615-4BBB-92AF-0ED440124A9B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{0D11E7E1-3615-4BBB-92AF-0ED440124A9B}.Release|Any CPU.Build.0 = Release|Any CPU
+		{55F219C2-E0DD-467A-816C-6781272828F1}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{55F219C2-E0DD-467A-816C-6781272828F1}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{55F219C2-E0DD-467A-816C-6781272828F1}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{55F219C2-E0DD-467A-816C-6781272828F1}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal
