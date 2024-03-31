@@ -2,5 +2,5 @@
 
 public interface IStringService
 { 
-    string ReverseString(string theString);
+    string ReverseString(string input);
 }
